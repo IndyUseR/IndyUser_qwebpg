@@ -1,0 +1,19 @@
+---
+title: "Caching Data with Pins Package - Derrick Kearney"
+slug: "oct2020"
+date: 2020-10-20
+---
+
+## Abstract
+
+
+This month we explore the pins package. The pins package allows users to save and retrieve data to and from "boards" that can be reused locally or shared with other when used with external services like Github, Kaggle, AWS S3, Google Cloud, Azure, Digital Ocean, or RStudio Connect.
+
+You can learn more about the pins package at: http://pins.rstudio.com/
+
+We'll take a look at the core functions of the pins package and use the package to update an example simulation to read data from and write data to a shared cache stored on Github.
+
+## Links
+[Meetup Video](https://www.youtube.com/watch?v=qva4UmXk_u4)
+
+

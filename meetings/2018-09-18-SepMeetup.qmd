@@ -1,0 +1,9 @@
+---
+title: "Time Series Group Forecasting with R and Interactive Visualization with ggvis - Roy Budhaditya"
+slug: "sep2018"
+date: 2018-09-18
+---
+
+## Abstract
+
+We will be discussing time series group forecasting in R as well as ggvis visualization. Forecasting is always a topic of importance with the availability of several models such as ARIMA, seasonal decomposition, exponential smoothing and so on. Each and every method produces different or close to similar output based on the data we use. We will be going through a hands on forecast modelling in R using Tidyverse and MAPA package. In second part, we will be talking about ggvis visualization which is built for rich interactive graphics and powered by Shiny’s infrastructure to publish interactive visualizations.

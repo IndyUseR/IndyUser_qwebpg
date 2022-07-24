@@ -1,0 +1,14 @@
+---
+title: "Turning Data Frames into Publication Ready Tables - Rich Iannone"
+slug: "mar2021"
+date: 2021-03-16
+---
+
+## Abstract
+
+In R we can do a lot with data tables. There are plenty of ways to import tabular data and then transform it for our needs. Lately, there’s been an explosion of new R packages that allow us to take these data tables and make them presentable in publication contexts. A package Rich Iannone has been working on, called gt, is great for taking a data frame and making it look good (and more like a table you’d find on the web or in print). Rich will show us some examples of how the gt package works, where it works well, and where other packages might do better for specific needs. This introduction will help prepare you to try out gt and some of the other table-making packages in the R ecosystem.
+
+## Links
+[Meetup Video](https://www.youtube.com/watch?v=s--Euh-C2xw)
+
+

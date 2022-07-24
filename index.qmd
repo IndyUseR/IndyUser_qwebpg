@@ -1,0 +1,45 @@
+---
+title: "IndyUseR"
+---
+
+## 2021
+* [May 2021](meetings/2021-05-18-MayMeetup.qmd) Apache Arrow: Enabling Data Engineering in R - Ian Cook
+* [Mar 2021](meetings/2021-03-16-MarMeetup.qmd) Turning Data Frames into Publication Ready Tables - Rich Iannone
+
+## 2020
+
+* [Oct 2020](meetings/2020-10-20-OctMeetup.qmd)
+* [Sep 2020](meetings/2020-09-15-SepMeetup.qmd)
+* [Jul 2020](meetings/2020-07-21-JulyMeetup.qmd)
+* [Jun 2020](meetings/2020-06-16-JunMeetup.qmd)
+* [May 2020](meetings/2020-05-19-MayMeetup.qmd)
+* [Apr 2020](meetings/2020-04-21-AprMeetup.qmd)
+* [Mar 2020](meetings/2020-03-17-MarMeetup.qmd)
+* [Feb 2020](meetings/2020-02-18-FebMeetup.qmd)
+
+## 2019
+
+* [Nov 2019](meetings/2019-11-19-NovMeetup.qmd)
+* [Oct 2019](meetings/2019-10-15-OctMeetup.qmd)
+* [Sep 2019](meetings/2019-09-17-SepMeetup.qmd)
+* [Aug 2019](meetings/2019-08-20-AugMeetup.qmd)
+* [Jul 2019](meetings/2019-07-16-JulyMeetup.qmd)
+* [May 2019](meetings/2019-05-21-MayMeetup.qmd)
+* [Apr 2019](meetings/2019-04-16-AprMeetup.qmd)
+* [Mar 2019](meetings/2019-03-19-FebMeetup.qmd)
+* [Feb 2019](meetings/2019-02-19-FebMeetup.qmd)
+* [Jan 2019](meetings/2019-01-15-JanMeetup.qmd)
+
+## 2018
+
+* [Nov 2018](meetings/2018-11-20-NovMeetup.qmd) Learnings from EARL Conference - Derrick Kearney and Roy Budhaditya
+* [Oct 2018](meetings/2018-10-16-OctMeetup.qmd) An introduction to the US Federal Budget with R by Stephen
+* [Sep 2018](meetings/2018-09-18-SepMeetup.qmd) Time Series Group Forecasting with R and Interactive Visualization with ggvis - Roy Budhaditya
+* [Aug 2018](meetings/2018-08-21-AugMeetup.qmd) Story Mapping with igraph - Bill McLellan
+* [Jul 2018](meetings/2018-07-19-JulyMeetup.qmd) Working with Databases from R - Alex Axthelm
+* [Jun 2018](meetings/2018-06-19-JuneMeetup.qmd) Neural Networks in R with nnet package - Harry Rowe
+* [May 2018](meetings/2018-05-15-MayMeetup.qmd) Turning Your Analysis into an API with Plumber - Derrick Kearney
+* [Apr 2018](meetings/2018-04-17-AprilMeetup.qmd) Using R in Power BI - Ryan Wade
+* [Mar 2018](meetings/2018-03-20-MarMeetup.qmd) Intro to Reticulate Package - Shankar
+* [Feb 2018](meetings/2018-02-20-FebMeetup.qmd) rstudio::conf2018 and tidyeval Discussion - Will Landau
+* [Jan 2018](meetings/2018-01-16-JanMeetup.qmd) Discussion of 2018 plans

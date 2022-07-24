@@ -1,0 +1,14 @@
+---
+title: "Overview of Reticulate - Shankar"
+slug: "sep2020"
+date: 2020-09-15
+---
+
+## Abstract
+
+We will explore reticulate package which allows easy use of python functionality from within R.
+
+## Links
+[Meetup Video](https://www.youtube.com/watch?v=bdx8G0FtXaI)
+
+

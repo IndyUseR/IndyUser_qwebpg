@@ -1,0 +1,15 @@
+---
+title: "Golem: Framework for Building Production Grade Shiny Apps - Lance Upton"
+slug: "may2020"
+date: 2020-05-19
+---
+
+## Abstract
+
+Lance introduced us to the R package named golem, which can be used to create production-grade Shiny applications. If you are into R based web application development and Shiny, this framework may be your guide to keeping your code organized with it's embedded best practices.
+
+Lance graciously agreed to do this meetup session for us at extremely short notice. So there were a few hiccups during the live demo. But he agreed to do another recording after the meetup to showcase Golem again which went more smoothly. We have listed both the videos below.
+
+### Video links:
+[Meetup Video](https://www.youtube.com/watch?v=XT8gBcw-VWY)
+[Post Meetup Video](https://www.youtube.com/watch?v=5pjMC7GK1QY)

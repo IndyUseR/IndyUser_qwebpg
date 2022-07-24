@@ -1,0 +1,7 @@
+---
+title: "Intro to Reticulate Package - Shankar"
+slug: "mar2018"
+date: 2018-03-20
+---
+
+Shankar covered the basics of reticulate package. The codes covered in the talk are in this [location](https://github.com/notesofdabbler/exploreReticulate).

@@ -1,0 +1,22 @@
+---
+title: "Discussion of 2019 Plans"
+slug: "jan2019"
+date: 2019-01-15
+---
+
+We discussed plans for 2019. We had sent a [survey](https://docs.google.com/forms/d/1Atha7ak8Oasn_RTqlKK5ROejnai8by4L8-vOk6UXpAE/edit) to the folks in IndyUseR meetup group (~400 members). We got only 13 responses. We reviewed the responses and factored those into our discussions. The summary of the 13 responses are in this [location](https://indyuser.github.io/IndyUserWebpg/presentationFiles/jan2019/IndyUserSurvey.html).
+
+We discussed the following:
+
+* Have zoom meetings for the meetups so that folks can join online and location
+is less of a barrier
+* Try to have meeting topics confirmed well before the meetup date
+* Talked about having intro level talks to make the group welcoming to new R users
+* Talked about bringing back R trivia segment for each of the meetups
+* Will look into a R Training day
+
+## Topics of Interest:
+Some of the topics of interest listed in this year's survey and talked about last year are listed in this [location](https://github.com/IndyUseR/Meetings/issues/4). Others can add to the list. It would also be great if anybody who is familiar with one of these topics volunteers to present to the group.
+
+## Survey
+We will keep the [survey](https://docs.google.com/forms/d/1Atha7ak8Oasn_RTqlKK5ROejnai8by4L8-vOk6UXpAE/edit) open. We would appreciate it if you can fill out the survey.

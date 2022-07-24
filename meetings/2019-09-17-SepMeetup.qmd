@@ -1,0 +1,8 @@
+---
+title: "RCall: Using Julia from R - Vijay Lulla"
+slug: "sep2019"
+date: 2019-09-17
+---
+
+
+

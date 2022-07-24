@@ -1,0 +1,13 @@
+---
+title: "Turning Your Analysis into an API with Plumber - Derrick Kearney"
+slug: "may2018"
+date: 2018-05-15
+---
+
+Derrick covered the topic of turning Analysis into an API with Plumber. The abstract of the talk and link to presented material are below.
+
+## Abstract
+
+You've imported the data, cleaned it up, and built the model. Your next step is to communicate your findings with others. Typically this would mean writing a report or building a web application so other people could visualize how the model works, but sometime your Communicate step is someone else's Import step. In this talk, we'll explore how to expose your analysis to others in a programmatic way by using HTTP APIs built with the Plumber library. Our conversation will include a high level overview of how HTTP works, code based examples of building an API, and how to use that API from different programming languages.
+
+[Link to material from talk](https://github.com/dskard/indy-use-r-201805)

@@ -1,0 +1,7 @@
+---
+title: "Plumber Package Discussion - Bill McLellan"
+slug: "apr2020"
+date: 2020-04-21
+---
+
+Bill led the discussion of Plumber package ([video](https://www.youtube.com/watch?v=3tsXF6-zqVw))

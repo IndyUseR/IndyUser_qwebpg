@@ -1,0 +1,8 @@
+---
+title: "Recap of rstudio::conf 2019 - Derrick Kearney and Will Landau"
+slug: "feb2019"
+date: 2019-02-19
+---
+
+Derrick and Will gave an overview of rstudio::conf 2019 and learning from it. Material covered during the meetup along with link to slides is in this [location](https://github.com/dskard/indy-use-r-201902).
+

@@ -1,0 +1,8 @@
+---
+title: "Machine Learning with Caret - Roy B., R Shiny Application - Lance Upton"
+slug: "july2019"
+date: 2019-07-16
+---
+
+
+

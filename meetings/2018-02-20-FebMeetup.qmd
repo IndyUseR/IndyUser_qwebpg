@@ -1,0 +1,7 @@
+---
+title: "rstudio::conf2018 and tidyeval Discussion - Will Landau"
+slug: "feb2018"
+date: 2018-02-20
+---
+
+Will talked about rstudio::conf2018 and discussed tidyeval concepts that he recently learnt at Hadley Wickham's rstudio::conf2018 tutorial. ([link to Will's presentation material](https://github.com/IndyUseR/Meetings/tree/master/2018_02_February))

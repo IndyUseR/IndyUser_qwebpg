@@ -1,0 +1,11 @@
+---
+title: "An introduction to the US Federal Budget with R by Stephen"
+slug: "oct2018"
+date: 2018-10-16
+---
+
+## Abstract
+
+The budget of the United States Federal Government is often a contentious issue. This presentation will provide a 'rough' introduction, covering where to get the data, provide a breakdown of the numbers, and links to other resources.
+
+[Link to presentation](https://smroecker.github.io/soil-pit/2018_usbudget.html)

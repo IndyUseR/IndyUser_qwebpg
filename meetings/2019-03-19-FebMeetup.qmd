@@ -1,0 +1,8 @@
+---
+title: "Putting the R in Docker: An introduction to single application containers by Derrick Kearney"
+slug: "mar2019"
+date: 2019-03-19
+---
+
+[Location of slides](https://github.com/dskard/indy-use-r-201903).
+

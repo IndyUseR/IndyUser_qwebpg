@@ -1,0 +1,14 @@
+---
+title: "RNA Sequencing: Analysis of gene expression data using R - Nadia Atallah Lanman"
+slug: "nov2019"
+date: 2019-11-19
+---
+
+## Abstract
+
+During the last decade, Next Generation sequencing technologies have revolutionized basic, applied, and clinical research. This IndyUseR tutorial is a brief overview, covering the basics of RNA-seq experimental planning and data analysis. The bulk of the analysis will focus on analyses that occur once a gene expression count matrix is obtained. We will cover quality control, differential gene expression analysis, pathway analysis, enrichment analysis, and data visualization.
+
+*Links*:   
+1. Presentation html file ([link](https://indyuser.github.io/IndyUserWebpg/presentationFiles/nov2019/AnalysisOfGeneExpressionDataUsingR.html))   
+2. Files used to generate html presentation file ([link](https://github.com/IndyUseR/Meetings/tree/master/2019_11_November))
+

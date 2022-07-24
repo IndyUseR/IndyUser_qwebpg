@@ -1,0 +1,12 @@
+---
+title: "Creating (Web) Maps with R - Stephen Roecker"
+slug: "apr2019"
+date: 2019-04-16
+---
+
+## Abstract
+
+Most data has a spatial dimension to it. Knowing 'where' the data is coming from is often as crucial as knowing the 'what', 'when' and 'who' dimensions of a given dataset. Therefore it should be no surprise that R has a rich suite of packages for constructing maps and analyzing spatial data. R's capability has grown so much over the years that it's functionality rivals many dedicated geographic information systems (GIS). During this Meetup the basics for managing and mapping spatial data with be introduced, using the following packages: sf, ggplot2, tmap, mapview and leaflet.
+
+[Location of slides](https://smroecker.github.io/soil-pit/2019_creating_maps_with_R.html).
+

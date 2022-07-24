@@ -1,0 +1,20 @@
+---
+title: "Using R in Power BI - Ryan Wade"
+slug: "apr2018"
+date: 2018-04-17
+---
+
+Ryan wade covered the topic of using R in Power BI. The abstract of the talk, Ryan's profile and link to presented material are below.
+
+## Abstract
+
+R is a very powerful statistical programming language that has been gaining a lot of traction in recent years. In early 2015 Microsoft acquired Revolution Analytics, a major provider of software and services for R. Microsoft have since incorporated R in Azure ML, SQL Server 2016, and Power BI. There are 3 ways you can leverage R in Power BI. You can use it as a data source, you can leverage it in Power Query, or you can use it to create custom visualizations. In this session I present easy to follow examples of those 3 scenarios. I will also provide resources that will enable you to take what you learned to the next level.
+
+## Profile of speaker Ryan Wade:
+I am a data analytic professional with over 20 years of experience. My education and work experience enables me to understand things from a technical, analytical, and business viewpoint. I have the ability to present complex data in an intuitive way using sound analytical and visualization methods.
+
+I have an advanced analytical and technical skill-set. My technical background includes the following tools and programming languages: Power BI, T-SQL, Excel, DAX, R, M, Python, VBA, Office 365, SSIS, SSAS Tabular & SSRS. I also have an elementary understanding of Azure ML and Octave.
+
+I am a data analytics enthusiast and I have spoken at R meetups, Python meetups, SQLSaturdays, and PASS Summit about various topics dealing with data analytic
+
+[Link to material from talk]()

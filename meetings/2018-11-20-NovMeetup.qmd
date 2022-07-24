@@ -1,0 +1,9 @@
+---
+title: "Learnings from EARL Conference - Derrick Kearney and Roy Budhaditya"
+slug: "nov2018"
+date: 2018-11-20
+---
+
+## Abstract
+
+Derrick and Roy shared their learnings from the recent EARL conference that they attended.

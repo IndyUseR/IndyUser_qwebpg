@@ -1,0 +1,13 @@
+---
+title: "Neural Networks in R with nnet package - Harry Rowe"
+slug: "jun2018"
+date: 2018-06-19
+---
+
+The abstract of the talk and link to presented material are below.
+
+## Abstract
+
+This talk will cover a simple example of neural network using nnet package. The talk would show example of continuous output and classifier (using iris dataset) and show tuning of classifier with repeated cross validation.
+
+[Link to material from talk](https://github.com/IndyUseR/IndyUserWebpg/tree/master/static/presentationFiles/jun2018)

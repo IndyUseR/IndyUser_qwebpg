@@ -1,0 +1,12 @@
+---
+title: "rstudio::conf(2020) Recap - Derrick Kearney"
+slug: "feb2020"
+date: 2020-02-18
+---
+
+Derrick reviewed the highlights from rstudio::conf (2020)
+
+Links:
+
+* [link to video](https://www.youtube.com/watch?v=pmG8JaWZYXI)  
+* [link to slides](https://github.com/dskard/indy-use-r-202002)

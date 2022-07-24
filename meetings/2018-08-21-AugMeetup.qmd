@@ -1,0 +1,9 @@
+---
+title: "Story Mapping with igraph - Bill McLellan"
+slug: "aug2018"
+date: 2018-08-21
+---
+
+## Abstract
+
+This talk will illustrate how to script a particular R solution for graph analysis to forecast scrum and kanban project cycle time given story links, points and team velocities. This will be followed by brainstorm with the group on how to start generalizing the solution for a project analysis package

@@ -1,0 +1,8 @@
+---
+title: "Learning to Build a Minimal R Package - Shankar"
+slug: "aug2019"
+date: 2019-08-20
+---
+
+
+

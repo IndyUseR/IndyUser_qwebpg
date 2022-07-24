@@ -1,0 +1,14 @@
+---
+title: "Apache Arrow: Enabling Data Engineering in R - Ian Cook"
+slug: "may2021"
+date: 2021-05-18
+---
+
+## Abstract
+
+The job of a data engineer is to build, manage, and optimize systems for transforming data into forms that facilitate analysis. Despite the broad adoption of R as a language for data science, it has taken a back seat to Python and other languages in the area of data engineering. But this is beginning to change. Data engineering tasks that were previously infeasible in R are becoming straightforward thanks to recent developments in the Apache Arrow project and the R package `arrow`. Arrow provides tools for working with tabular data that emphasize performance, efficiency, standardization, and interoperability with other languages and systems in the broader data ecosystem. Using the R package `arrow`, it is now possible to implement many data engineering and ETL tasks entirely in R, avoiding the overhead of switching to another language Python or using a framework like Spark.
+
+## Links
+[Meetup Video](https://www.youtube.com/watch?v=SXbq4OYtsFA)
+
+

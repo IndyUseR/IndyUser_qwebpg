@@ -1,0 +1,10 @@
+---
+title: "RStudio Connect - Gagandeep Singh and Ryan Johnson"
+slug: "jul2020"
+date: 2020-07-21
+---
+
+## Links
+[Meetup Video](https://www.youtube.com/watch?v=FmEy35E2Dt0)
+
+
