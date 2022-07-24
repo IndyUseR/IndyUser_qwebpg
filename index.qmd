@@ -1,5 +1,5 @@
 ---
-title: "IndyUseR"
+title: "IndyUseR Meetup"
 ---
 
 ## 2021
@@ -8,27 +8,27 @@ title: "IndyUseR"
 
 ## 2020
 
-* [Oct 2020](meetings/2020-10-20-OctMeetup.qmd)
-* [Sep 2020](meetings/2020-09-15-SepMeetup.qmd)
-* [Jul 2020](meetings/2020-07-21-JulyMeetup.qmd)
-* [Jun 2020](meetings/2020-06-16-JunMeetup.qmd)
-* [May 2020](meetings/2020-05-19-MayMeetup.qmd)
-* [Apr 2020](meetings/2020-04-21-AprMeetup.qmd)
-* [Mar 2020](meetings/2020-03-17-MarMeetup.qmd)
-* [Feb 2020](meetings/2020-02-18-FebMeetup.qmd)
+* [Oct 2020](meetings/2020-10-20-OctMeetup.qmd) Caching Data with Pins Package - Derrick Kearney
+* [Sep 2020](meetings/2020-09-15-SepMeetup.qmd) Overview of Reticulate - Shanka
+* [Jul 2020](meetings/2020-07-21-JulyMeetup.qmd) RStudio Connect - Gagandeep Singh and Ryan Johnson
+* [Jun 2020](meetings/2020-06-16-JunMeetup.qmd) Time Series Forecasting with Fable Package - Sri Seshadri
+* [May 2020](meetings/2020-05-19-MayMeetup.qmd) Golem: Framework for Building Production Grade Shiny Apps - Lance Upton
+* [Apr 2020](meetings/2020-04-21-AprMeetup.qmd) Plumber Package Discussion - Bill McLellan
+* [Mar 2020](meetings/2020-03-17-MarMeetup.qmd) Renv package - Derrick Kearney
+* [Feb 2020](meetings/2020-02-18-FebMeetup.qmd) rstudio::conf(2020) Recap - Derrick Kearney
 
 ## 2019
 
-* [Nov 2019](meetings/2019-11-19-NovMeetup.qmd)
-* [Oct 2019](meetings/2019-10-15-OctMeetup.qmd)
-* [Sep 2019](meetings/2019-09-17-SepMeetup.qmd)
-* [Aug 2019](meetings/2019-08-20-AugMeetup.qmd)
-* [Jul 2019](meetings/2019-07-16-JulyMeetup.qmd)
-* [May 2019](meetings/2019-05-21-MayMeetup.qmd)
-* [Apr 2019](meetings/2019-04-16-AprMeetup.qmd)
-* [Mar 2019](meetings/2019-03-19-FebMeetup.qmd)
-* [Feb 2019](meetings/2019-02-19-FebMeetup.qmd)
-* [Jan 2019](meetings/2019-01-15-JanMeetup.qmd)
+* [Nov 2019](meetings/2019-11-19-NovMeetup.qmd) RNA Sequencing: Analysis of gene expression data using R - Nadia Atallah Lanman
+* [Oct 2019](meetings/2019-10-15-OctMeetup.qmd) Reproducible workflows at scale with Drake - Will Landau
+* [Sep 2019](meetings/2019-09-17-SepMeetup.qmd) RCall: Using Julia from R - Vijay Lulla
+* [Aug 2019](meetings/2019-08-20-AugMeetup.qmd) Learning to Build a Minimal R Package - Shankar
+* [Jul 2019](meetings/2019-07-16-JulyMeetup.qmd) Machine Learning with Caret - Roy B., R Shiny Application - Lance Upton
+* [May 2019](meetings/2019-05-21-MayMeetup.qmd) Explore Simmer Package for Discrete Event Simulation in R
+* [Apr 2019](meetings/2019-04-16-AprMeetup.qmd) Creating (Web) Maps with R - Stephen Roecker
+* [Mar 2019](meetings/2019-03-19-FebMeetup.qmd) Putting the R in Docker: An introduction to single application containers by Derrick Kearney
+* [Feb 2019](meetings/2019-02-19-FebMeetup.qmd) Recap of rstudio::conf 2019 - Derrick Kearney and Will Landau
+* [Jan 2019](meetings/2019-01-15-JanMeetup.qmd) Discussion of 2019 Plans
 
 ## 2018
 
@@ -43,3 +43,39 @@ title: "IndyUseR"
 * [Mar 2018](meetings/2018-03-20-MarMeetup.qmd) Intro to Reticulate Package - Shankar
 * [Feb 2018](meetings/2018-02-20-FebMeetup.qmd) rstudio::conf2018 and tidyeval Discussion - Will Landau
 * [Jan 2018](meetings/2018-01-16-JanMeetup.qmd) Discussion of 2018 plans
+
+## 2017
+
+* [November 2017](https://smroecker.github.io/soil-pit/2017_tidyverse_article.html): Perspective on Base R and Tidyverse by Stephen
+* October 2017: An R Text Mining Case Study - Harry Rowe
+* [September 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_09_September/2017_09_MeetingMinutes.Rmd): Exploring UN General Debates Kaggle Dataset with R NLP Tools
+* [August 2017](https://indyuser.github.io/webpg/slides/2017_08_August/drake.html#/): Reproducibility and high-performance computing with drake
+* July 2017: R in the development and analysis of forensic credibility assessment tests
+* June 2017: Exploring Simmer - An R Package for Discrete Event Simulation
+* [May 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_05_May/2017_05_MeetingMinutes.Rmd): Overview of Julia by a R User
+* [April 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_04_April/2017_04_MeetingMinutes.Rmd): Cybersecurity Discussion
+* [March 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_03_March/2017_03_MeetingMinutes.Rmd): FREDcast, R Trivia, General Discussion
+* [February 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_02_February/2017_02_MeetingMinutes.Rmd): FREDcast, R Trivia, Webscraping and htmlWidgets
+* [January 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_01_January/2017_01_MeetingMinutes.Rmd): Kickoff Meeting for Year, General Discussion, Trends in Statistical Papers Using Google Scholar - Matt Gillam
+
+## 2016
+
+* [November 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_11_November/meetingMinutes.Rmd): Predicting NBA Games using SQL R Services - Ryan Wade
+* [October 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_10_October/meetingMinutes.Rmd): New R tools for workflow management, testing, and reproducibility - Will Landau
+* September 2016: Intro to R Programming at IUPUI - Fred Kukral
+* [August 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_08_August/meetingMinutes.Rmd): Presentation about feather - Matt Gillam
+* [July 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_07_July/meetingMinutes.Rmd): UseR 2016 Recap - Adam Simkowski
+* [June 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_06_June/meetingMinutes.Rmd): Leveraging Weather Data in R - Adam Simkowski
+* [May 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_05_May/meetingMinutes.Rmd): Big Molecules Meets Big Data: Predicting Protein Tertiary Structure from Combinatorial Chemistry Data - Stan Siranovich
+* [April 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_04_April/meetingMinutes.Rmd): Using R and Power BI to Analyze US Trade Balance with Other Countries - Ryan Wade
+* [March 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_03_March/meetingMinutes.Rmd): System Configuration and Development of R in Jupyter Notebook
+* [February 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_02_February/meetingMinutes.Rmd): Book overview: Mastering Machine Learning with R - Cory Lesmeister
+* [January 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_01_January/meetingMinutes.Rmd): Webscraping with rvest package - Shankar Vaidyaraman
+
+## 2015
+
+* [November 2015](https://github.com/IndyUseR/Meetings/blob/master/2015_11_November/meetingMinutes.Rmd): Typical Excel Tasks in R - Stuart Ward, Demo of a Shiny App that Analyzes Sentiments and Produces Wordcloud of Sentiments - J. D. Freeman
+* [October 2015](https://github.com/IndyUseR/Meetings/blob/master/2015_10_October/meetingMinutes.Rmd): Big Data Processing with Apache Spark and R - Hao Lin
+* [September 2015](https://github.com/IndyUseR/Meetings/blob/master/2015_09_September/meetingMinutes.Rmd): reshape and reshape2 packages - Adrian Katschke
+* [August 2015](https://github.com/IndyUseR/Meetings/blob/master/2015_08_August/meetingMinutes.Rmd): 3D Interactive Scatter Plots - J. D. Freeman, R Markdown - Richard Layton
+* [July 2015](https://github.com/IndyUseR/Meetings/blob/master/2015_07_July/meetingMinutes.Rmd): Report on UseR 2015 - Richard Layton, Presentation on forecasting with forecast package - Ben Staiger
