@@ -2,4 +2,6 @@
 title: "About"
 ---
 
-About this site
+The IndyUseR Group is dedicated to bringing together users of R (at all levels of experience from beginner to expert level) to exchange knowledge, inspire new users, and spur the adoption of R for innovative research and commercial applications.
+
+The meetup page for IndyUseR group is at this [location](https://www.meetup.com/Indy-useR-Group/). The youtube channel is in this [location](https://www.youtube.com/channel/UCTfL12CUn2A_3Bzwbvg_xbQ/featured)
