@@ -2,6 +2,9 @@
 title: "IndyUseR Meetup"
 ---
 
+## 2022
+* [Aug 2022](meetings/2022-08-16-AugMeetup.qmd) My First Experiences with Quarto - Derrick Kearney
+
 ## 2021
 * [May 2021](meetings/2021-05-18-MayMeetup.qmd) Apache Arrow: Enabling Data Engineering in R - Ian Cook
 * [Mar 2021](meetings/2021-03-16-MarMeetup.qmd) Turning Data Frames into Publication Ready Tables - Rich Iannone

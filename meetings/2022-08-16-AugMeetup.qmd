@@ -1,0 +1,14 @@
+---
+title: "My First Experiences with Quarto - Derrick Kearney"
+slug: "aug2022"
+date: 2022-08-16
+---
+
+## Abstract
+
+One of my goals for this summer was to get to know more about the Quarto project [https://quarto.org](https://quarto.org). I'll be sharing my thoughts on this new scientific publishing system.
+
+## Links
+[Meetup Video](https://www.youtube.com/watch?v=L25Iuw6z0Ik)
+
+

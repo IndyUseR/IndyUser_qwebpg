@@ -11,49 +11,49 @@
     "href": "index.html",
     "title": "IndyUseR Meetup",
     "section": "",
-    "text": "May 2021 Apache Arrow: Enabling Data Engineering in R - Ian Cook\nMar 2021 Turning Data Frames into Publication Ready Tables - Rich Iannone"
+    "text": "Aug 2022 My First Experiences with Quarto - Derrick Kearney"
   },
   {
     "objectID": "index.html#section-1",
     "href": "index.html#section-1",
     "title": "IndyUseR Meetup",
-    "section": "2020",
-    "text": "2020\n\nOct 2020 Caching Data with Pins Package - Derrick Kearney\nSep 2020 Overview of Reticulate - Shanka\nJul 2020 RStudio Connect - Gagandeep Singh and Ryan Johnson\nJun 2020 Time Series Forecasting with Fable Package - Sri Seshadri\nMay 2020 Golem: Framework for Building Production Grade Shiny Apps - Lance Upton\nApr 2020 Plumber Package Discussion - Bill McLellan\nMar 2020 Renv package - Derrick Kearney\nFeb 2020 rstudio::conf(2020) Recap - Derrick Kearney"
+    "section": "2021",
+    "text": "2021\n\nMay 2021 Apache Arrow: Enabling Data Engineering in R - Ian Cook\nMar 2021 Turning Data Frames into Publication Ready Tables - Rich Iannone"
   },
   {
     "objectID": "index.html#section-2",
     "href": "index.html#section-2",
     "title": "IndyUseR Meetup",
-    "section": "2019",
-    "text": "2019\n\nNov 2019 RNA Sequencing: Analysis of gene expression data using R - Nadia Atallah Lanman\nOct 2019 Reproducible workflows at scale with Drake - Will Landau\nSep 2019 RCall: Using Julia from R - Vijay Lulla\nAug 2019 Learning to Build a Minimal R Package - Shankar\nJul 2019 Machine Learning with Caret - Roy B., R Shiny Application - Lance Upton\nMay 2019 Explore Simmer Package for Discrete Event Simulation in R\nApr 2019 Creating (Web) Maps with R - Stephen Roecker\nMar 2019 Putting the R in Docker: An introduction to single application containers by Derrick Kearney\nFeb 2019 Recap of rstudio::conf 2019 - Derrick Kearney and Will Landau\nJan 2019 Discussion of 2019 Plans"
+    "section": "2020",
+    "text": "2020\n\nOct 2020 Caching Data with Pins Package - Derrick Kearney\nSep 2020 Overview of Reticulate - Shanka\nJul 2020 RStudio Connect - Gagandeep Singh and Ryan Johnson\nJun 2020 Time Series Forecasting with Fable Package - Sri Seshadri\nMay 2020 Golem: Framework for Building Production Grade Shiny Apps - Lance Upton\nApr 2020 Plumber Package Discussion - Bill McLellan\nMar 2020 Renv package - Derrick Kearney\nFeb 2020 rstudio::conf(2020) Recap - Derrick Kearney"
   },
   {
     "objectID": "index.html#section-3",
     "href": "index.html#section-3",
     "title": "IndyUseR Meetup",
-    "section": "2018",
-    "text": "2018\n\nNov 2018 Learnings from EARL Conference - Derrick Kearney and Roy Budhaditya\nOct 2018 An introduction to the US Federal Budget with R by Stephen\nSep 2018 Time Series Group Forecasting with R and Interactive Visualization with ggvis - Roy Budhaditya\nAug 2018 Story Mapping with igraph - Bill McLellan\nJul 2018 Working with Databases from R - Alex Axthelm\nJun 2018 Neural Networks in R with nnet package - Harry Rowe\nMay 2018 Turning Your Analysis into an API with Plumber - Derrick Kearney\nApr 2018 Using R in Power BI - Ryan Wade\nMar 2018 Intro to Reticulate Package - Shankar\nFeb 2018 rstudio::conf2018 and tidyeval Discussion - Will Landau\nJan 2018 Discussion of 2018 plans"
+    "section": "2019",
+    "text": "2019\n\nNov 2019 RNA Sequencing: Analysis of gene expression data using R - Nadia Atallah Lanman\nOct 2019 Reproducible workflows at scale with Drake - Will Landau\nSep 2019 RCall: Using Julia from R - Vijay Lulla\nAug 2019 Learning to Build a Minimal R Package - Shankar\nJul 2019 Machine Learning with Caret - Roy B., R Shiny Application - Lance Upton\nMay 2019 Explore Simmer Package for Discrete Event Simulation in R\nApr 2019 Creating (Web) Maps with R - Stephen Roecker\nMar 2019 Putting the R in Docker: An introduction to single application containers by Derrick Kearney\nFeb 2019 Recap of rstudio::conf 2019 - Derrick Kearney and Will Landau\nJan 2019 Discussion of 2019 Plans"
   },
   {
     "objectID": "index.html#section-4",
     "href": "index.html#section-4",
     "title": "IndyUseR Meetup",
-    "section": "2017",
-    "text": "2017\n\nNovember 2017: Perspective on Base R and Tidyverse by Stephen\nOctober 2017: An R Text Mining Case Study - Harry Rowe\nSeptember 2017: Exploring UN General Debates Kaggle Dataset with R NLP Tools\nAugust 2017: Reproducibility and high-performance computing with drake\nJuly 2017: R in the development and analysis of forensic credibility assessment tests\nJune 2017: Exploring Simmer - An R Package for Discrete Event Simulation\nMay 2017: Overview of Julia by a R User\nApril 2017: Cybersecurity Discussion\nMarch 2017: FREDcast, R Trivia, General Discussion\nFebruary 2017: FREDcast, R Trivia, Webscraping and htmlWidgets\nJanuary 2017: Kickoff Meeting for Year, General Discussion, Trends in Statistical Papers Using Google Scholar - Matt Gillam"
+    "section": "2018",
+    "text": "2018\n\nNov 2018 Learnings from EARL Conference - Derrick Kearney and Roy Budhaditya\nOct 2018 An introduction to the US Federal Budget with R by Stephen\nSep 2018 Time Series Group Forecasting with R and Interactive Visualization with ggvis - Roy Budhaditya\nAug 2018 Story Mapping with igraph - Bill McLellan\nJul 2018 Working with Databases from R - Alex Axthelm\nJun 2018 Neural Networks in R with nnet package - Harry Rowe\nMay 2018 Turning Your Analysis into an API with Plumber - Derrick Kearney\nApr 2018 Using R in Power BI - Ryan Wade\nMar 2018 Intro to Reticulate Package - Shankar\nFeb 2018 rstudio::conf2018 and tidyeval Discussion - Will Landau\nJan 2018 Discussion of 2018 plans"
   },
   {
     "objectID": "index.html#section-5",
     "href": "index.html#section-5",
     "title": "IndyUseR Meetup",
-    "section": "2016",
-    "text": "2016\n\nNovember 2016: Predicting NBA Games using SQL R Services - Ryan Wade\nOctober 2016: New R tools for workflow management, testing, and reproducibility - Will Landau\nSeptember 2016: Intro to R Programming at IUPUI - Fred Kukral\nAugust 2016: Presentation about feather - Matt Gillam\nJuly 2016: UseR 2016 Recap - Adam Simkowski\nJune 2016: Leveraging Weather Data in R - Adam Simkowski\nMay 2016: Big Molecules Meets Big Data: Predicting Protein Tertiary Structure from Combinatorial Chemistry Data - Stan Siranovich\nApril 2016: Using R and Power BI to Analyze US Trade Balance with Other Countries - Ryan Wade\nMarch 2016: System Configuration and Development of R in Jupyter Notebook\nFebruary 2016: Book overview: Mastering Machine Learning with R - Cory Lesmeister\nJanuary 2016: Webscraping with rvest package - Shankar Vaidyaraman"
+    "section": "2017",
+    "text": "2017\n\nNovember 2017: Perspective on Base R and Tidyverse by Stephen\nOctober 2017: An R Text Mining Case Study - Harry Rowe\nSeptember 2017: Exploring UN General Debates Kaggle Dataset with R NLP Tools\nAugust 2017: Reproducibility and high-performance computing with drake\nJuly 2017: R in the development and analysis of forensic credibility assessment tests\nJune 2017: Exploring Simmer - An R Package for Discrete Event Simulation\nMay 2017: Overview of Julia by a R User\nApril 2017: Cybersecurity Discussion\nMarch 2017: FREDcast, R Trivia, General Discussion\nFebruary 2017: FREDcast, R Trivia, Webscraping and htmlWidgets\nJanuary 2017: Kickoff Meeting for Year, General Discussion, Trends in Statistical Papers Using Google Scholar - Matt Gillam"
   },
   {
     "objectID": "index.html#section-6",
     "href": "index.html#section-6",
     "title": "IndyUseR Meetup",
-    "section": "2015",
-    "text": "2015\n\nNovember 2015: Typical Excel Tasks in R - Stuart Ward, Demo of a Shiny App that Analyzes Sentiments and Produces Wordcloud of Sentiments - J. D. Freeman\nOctober 2015: Big Data Processing with Apache Spark and R - Hao Lin\nSeptember 2015: reshape and reshape2 packages - Adrian Katschke\nAugust 2015: 3D Interactive Scatter Plots - J. D. Freeman, R Markdown - Richard Layton\nJuly 2015: Report on UseR 2015 - Richard Layton, Presentation on forecasting with forecast package - Ben Staiger"
+    "section": "2016",
+    "text": "2016\n\nNovember 2016: Predicting NBA Games using SQL R Services - Ryan Wade\nOctober 2016: New R tools for workflow management, testing, and reproducibility - Will Landau\nSeptember 2016: Intro to R Programming at IUPUI - Fred Kukral\nAugust 2016: Presentation about feather - Matt Gillam\nJuly 2016: UseR 2016 Recap - Adam Simkowski\nJune 2016: Leveraging Weather Data in R - Adam Simkowski\nMay 2016: Big Molecules Meets Big Data: Predicting Protein Tertiary Structure from Combinatorial Chemistry Data - Stan Siranovich\nApril 2016: Using R and Power BI to Analyze US Trade Balance with Other Countries - Ryan Wade\nMarch 2016: System Configuration and Development of R in Jupyter Notebook\nFebruary 2016: Book overview: Mastering Machine Learning with R - Cory Lesmeister\nJanuary 2016: Webscraping with rvest package - Shankar Vaidyaraman"
   },
   {
     "objectID": "meetings/2018-01-16-JanMeetup.html",
@@ -332,6 +332,27 @@
     "objectID": "meetings/2021-05-18-MayMeetup.html#links",
     "href": "meetings/2021-05-18-MayMeetup.html#links",
     "title": "Apache Arrow: Enabling Data Engineering in R - Ian Cook",
+    "section": "Links",
+    "text": "Links\nMeetup Video"
+  },
+  {
+    "objectID": "index.html#section-7",
+    "href": "index.html#section-7",
+    "title": "IndyUseR Meetup",
+    "section": "2015",
+    "text": "2015\n\nNovember 2015: Typical Excel Tasks in R - Stuart Ward, Demo of a Shiny App that Analyzes Sentiments and Produces Wordcloud of Sentiments - J. D. Freeman\nOctober 2015: Big Data Processing with Apache Spark and R - Hao Lin\nSeptember 2015: reshape and reshape2 packages - Adrian Katschke\nAugust 2015: 3D Interactive Scatter Plots - J. D. Freeman, R Markdown - Richard Layton\nJuly 2015: Report on UseR 2015 - Richard Layton, Presentation on forecasting with forecast package - Ben Staiger"
+  },
+  {
+    "objectID": "meetings/2022-08-16-AugMeetup.html",
+    "href": "meetings/2022-08-16-AugMeetup.html",
+    "title": "My First Experiences with Quarto - Derrick Kearney",
+    "section": "",
+    "text": "One of my goals for this summer was to get to know more about the Quarto project https://quarto.org. I’ll be sharing my thoughts on this new scientific publishing system."
+  },
+  {
+    "objectID": "meetings/2022-08-16-AugMeetup.html#links",
+    "href": "meetings/2022-08-16-AugMeetup.html#links",
+    "title": "My First Experiences with Quarto - Derrick Kearney",
     "section": "Links",
     "text": "Links\nMeetup Video"
   }
