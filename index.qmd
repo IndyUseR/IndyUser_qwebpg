@@ -3,6 +3,7 @@ title: "IndyUseR Meetup"
 ---
 
 ## 2022
+* [Oct 2022](meetings/2022-10-18-OctMeetup.qmd) Introduction to targets R package - Will Landau
 * [Aug 2022](meetings/2022-08-16-AugMeetup.qmd) My First Experiences with Quarto - Derrick Kearney
 
 ## 2021

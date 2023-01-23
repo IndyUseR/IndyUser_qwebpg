@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The meetup page for IndyUseR group is at this location. The youtube channel is in this location"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "IndyUseR Meetup",
     "section": "",
-    "text": "Aug 2022 My First Experiences with Quarto - Derrick Kearney"
+    "text": "Oct 2022 Introduction to targets R package - Will Landau\nAug 2022 My First Experiences with Quarto - Derrick Kearney"
   },
   {
     "objectID": "index.html#section-1",
@@ -56,67 +49,32 @@
     "text": "2016\n\nNovember 2016: Predicting NBA Games using SQL R Services - Ryan Wade\nOctober 2016: New R tools for workflow management, testing, and reproducibility - Will Landau\nSeptember 2016: Intro to R Programming at IUPUI - Fred Kukral\nAugust 2016: Presentation about feather - Matt Gillam\nJuly 2016: UseR 2016 Recap - Adam Simkowski\nJune 2016: Leveraging Weather Data in R - Adam Simkowski\nMay 2016: Big Molecules Meets Big Data: Predicting Protein Tertiary Structure from Combinatorial Chemistry Data - Stan Siranovich\nApril 2016: Using R and Power BI to Analyze US Trade Balance with Other Countries - Ryan Wade\nMarch 2016: System Configuration and Development of R in Jupyter Notebook\nFebruary 2016: Book overview: Mastering Machine Learning with R - Cory Lesmeister\nJanuary 2016: Webscraping with rvest package - Shankar Vaidyaraman"
   },
   {
-    "objectID": "meetings/2018-01-16-JanMeetup.html",
-    "href": "meetings/2018-01-16-JanMeetup.html",
-    "title": "Discussion of 2018 plans",
+    "objectID": "index.html#section-7",
+    "href": "index.html#section-7",
+    "title": "IndyUseR Meetup",
+    "section": "2015",
+    "text": "2015\n\nNovember 2015: Typical Excel Tasks in R - Stuart Ward, Demo of a Shiny App that Analyzes Sentiments and Produces Wordcloud of Sentiments - J. D. Freeman\nOctober 2015: Big Data Processing with Apache Spark and R - Hao Lin\nSeptember 2015: reshape and reshape2 packages - Adrian Katschke\nAugust 2015: 3D Interactive Scatter Plots - J. D. Freeman, R Markdown - Richard Layton\nJuly 2015: Report on UseR 2015 - Richard Layton, Presentation on forecasting with forecast package - Ben Staiger"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "We discussed plans for 2018 as a group. Below are notes from the discussion"
+    "text": "The meetup page for IndyUseR group is at this location. The youtube channel is in this location"
   },
   {
-    "objectID": "meetings/2018-01-16-JanMeetup.html#ideas-on-content-to-cover-in-the-meetups",
-    "href": "meetings/2018-01-16-JanMeetup.html#ideas-on-content-to-cover-in-the-meetups",
-    "title": "Discussion of 2018 plans",
-    "section": "Ideas on content to cover in the meetups",
-    "text": "Ideas on content to cover in the meetups\n\ntrivia\nshort package intro and go through vignette with some extensions\ngo through datasets from different industries\npeople can ask questions (ask a few days before) so that they can be addressed during the meetup\nTopics of interest:\n\ngithub\ndocker/rocker\nsetting up RStudio/Shiny in cloud (AWS, google cloud etc.)\nMarkdown/knitr\n\nParticipate in hackathons\nWhat folks want from the group:\n\nSee different things\nintro stuff\n\nLook to change location closer to downtown\nPlan couple of months ahead\nHave some pre-made content to fill periodically\nFeb:\n\nReticulate: 30 min Shankar\nReview of Rstudio conf: 1h Will Landau\n\nMarch:\n\nIntro topic (data basics) - Todd\n\nSomewhere: (Alex)\n\nusing R with SQL, dbi\nStart to finish build your theme for ggplot"
-  },
-  {
-    "objectID": "meetings/2018-02-20-FebMeetup.html",
-    "href": "meetings/2018-02-20-FebMeetup.html",
-    "title": "rstudio::conf2018 and tidyeval Discussion - Will Landau",
+    "objectID": "meetings/2018-11-20-NovMeetup.html",
+    "href": "meetings/2018-11-20-NovMeetup.html",
+    "title": "Learnings from EARL Conference - Derrick Kearney and Roy Budhaditya",
     "section": "",
-    "text": "Will talked about rstudio::conf2018 and discussed tidyeval concepts that he recently learnt at Hadley Wickham’s rstudio::conf2018 tutorial. (link to Will’s presentation material)"
+    "text": "Derrick and Roy shared their learnings from the recent EARL conference that they attended."
   },
   {
-    "objectID": "meetings/2018-03-20-MarMeetup.html",
-    "href": "meetings/2018-03-20-MarMeetup.html",
-    "title": "Intro to Reticulate Package - Shankar",
+    "objectID": "meetings/2019-11-19-NovMeetup.html",
+    "href": "meetings/2019-11-19-NovMeetup.html",
+    "title": "RNA Sequencing: Analysis of gene expression data using R - Nadia Atallah Lanman",
     "section": "",
-    "text": "Shankar covered the basics of reticulate package. The codes covered in the talk are in this location."
-  },
-  {
-    "objectID": "meetings/2018-04-17-AprilMeetup.html",
-    "href": "meetings/2018-04-17-AprilMeetup.html",
-    "title": "Using R in Power BI - Ryan Wade",
-    "section": "",
-    "text": "Ryan wade covered the topic of using R in Power BI. The abstract of the talk, Ryan’s profile and link to presented material are below."
-  },
-  {
-    "objectID": "meetings/2018-04-17-AprilMeetup.html#abstract",
-    "href": "meetings/2018-04-17-AprilMeetup.html#abstract",
-    "title": "Using R in Power BI - Ryan Wade",
-    "section": "Abstract",
-    "text": "Abstract\nR is a very powerful statistical programming language that has been gaining a lot of traction in recent years. In early 2015 Microsoft acquired Revolution Analytics, a major provider of software and services for R. Microsoft have since incorporated R in Azure ML, SQL Server 2016, and Power BI. There are 3 ways you can leverage R in Power BI. You can use it as a data source, you can leverage it in Power Query, or you can use it to create custom visualizations. In this session I present easy to follow examples of those 3 scenarios. I will also provide resources that will enable you to take what you learned to the next level."
-  },
-  {
-    "objectID": "meetings/2018-04-17-AprilMeetup.html#profile-of-speaker-ryan-wade",
-    "href": "meetings/2018-04-17-AprilMeetup.html#profile-of-speaker-ryan-wade",
-    "title": "Using R in Power BI - Ryan Wade",
-    "section": "Profile of speaker Ryan Wade:",
-    "text": "Profile of speaker Ryan Wade:\nI am a data analytic professional with over 20 years of experience. My education and work experience enables me to understand things from a technical, analytical, and business viewpoint. I have the ability to present complex data in an intuitive way using sound analytical and visualization methods.\nI have an advanced analytical and technical skill-set. My technical background includes the following tools and programming languages: Power BI, T-SQL, Excel, DAX, R, M, Python, VBA, Office 365, SSIS, SSAS Tabular & SSRS. I also have an elementary understanding of Azure ML and Octave.\nI am a data analytics enthusiast and I have spoken at R meetups, Python meetups, SQLSaturdays, and PASS Summit about various topics dealing with data analytic\nLink to material from talk"
-  },
-  {
-    "objectID": "meetings/2018-05-15-MayMeetup.html",
-    "href": "meetings/2018-05-15-MayMeetup.html",
-    "title": "Turning Your Analysis into an API with Plumber - Derrick Kearney",
-    "section": "",
-    "text": "Derrick covered the topic of turning Analysis into an API with Plumber. The abstract of the talk and link to presented material are below."
-  },
-  {
-    "objectID": "meetings/2018-05-15-MayMeetup.html#abstract",
-    "href": "meetings/2018-05-15-MayMeetup.html#abstract",
-    "title": "Turning Your Analysis into an API with Plumber - Derrick Kearney",
-    "section": "Abstract",
-    "text": "Abstract\nYou’ve imported the data, cleaned it up, and built the model. Your next step is to communicate your findings with others. Typically this would mean writing a report or building a web application so other people could visualize how the model works, but sometime your Communicate step is someone else’s Import step. In this talk, we’ll explore how to expose your analysis to others in a programmatic way by using HTTP APIs built with the Plumber library. Our conversation will include a high level overview of how HTTP works, code based examples of building an API, and how to use that API from different programming languages.\nLink to material from talk"
+    "text": "During the last decade, Next Generation sequencing technologies have revolutionized basic, applied, and clinical research. This IndyUseR tutorial is a brief overview, covering the basics of RNA-seq experimental planning and data analysis. The bulk of the analysis will focus on analyses that occur once a gene expression count matrix is obtained. We will cover quality control, differential gene expression analysis, pathway analysis, enrichment analysis, and data visualization.\nLinks:\n1. Presentation html file (link)\n2. Files used to generate html presentation file (link)"
   },
   {
     "objectID": "meetings/2018-06-19-JuneMeetup.html",
@@ -133,74 +91,11 @@
     "text": "Abstract\nThis talk will cover a simple example of neural network using nnet package. The talk would show example of continuous output and classifier (using iris dataset) and show tuning of classifier with repeated cross validation.\nLink to material from talk"
   },
   {
-    "objectID": "meetings/2018-07-19-JulyMeetup.html",
-    "href": "meetings/2018-07-19-JulyMeetup.html",
-    "title": "Working with Databases from R - Alex Axthelm",
+    "objectID": "meetings/2020-02-18-FebMeetup.html",
+    "href": "meetings/2020-02-18-FebMeetup.html",
+    "title": "rstudio::conf(2020) Recap - Derrick Kearney",
     "section": "",
-    "text": "The abstract of the talk and link to presented material are below."
-  },
-  {
-    "objectID": "meetings/2018-07-19-JulyMeetup.html#abstract",
-    "href": "meetings/2018-07-19-JulyMeetup.html#abstract",
-    "title": "Working with Databases from R - Alex Axthelm",
-    "section": "Abstract",
-    "text": "Abstract\nAlex gave a demo of how to use R code to access and process data form SQL server."
-  },
-  {
-    "objectID": "meetings/2018-08-21-AugMeetup.html",
-    "href": "meetings/2018-08-21-AugMeetup.html",
-    "title": "Story Mapping with igraph - Bill McLellan",
-    "section": "",
-    "text": "This talk will illustrate how to script a particular R solution for graph analysis to forecast scrum and kanban project cycle time given story links, points and team velocities. This will be followed by brainstorm with the group on how to start generalizing the solution for a project analysis package"
-  },
-  {
-    "objectID": "meetings/2018-09-18-SepMeetup.html",
-    "href": "meetings/2018-09-18-SepMeetup.html",
-    "title": "Time Series Group Forecasting with R and Interactive Visualization with ggvis - Roy Budhaditya",
-    "section": "",
-    "text": "We will be discussing time series group forecasting in R as well as ggvis visualization. Forecasting is always a topic of importance with the availability of several models such as ARIMA, seasonal decomposition, exponential smoothing and so on. Each and every method produces different or close to similar output based on the data we use. We will be going through a hands on forecast modelling in R using Tidyverse and MAPA package. In second part, we will be talking about ggvis visualization which is built for rich interactive graphics and powered by Shiny’s infrastructure to publish interactive visualizations."
-  },
-  {
-    "objectID": "meetings/2018-10-16-OctMeetup.html",
-    "href": "meetings/2018-10-16-OctMeetup.html",
-    "title": "An introduction to the US Federal Budget with R by Stephen",
-    "section": "",
-    "text": "The budget of the United States Federal Government is often a contentious issue. This presentation will provide a ‘rough’ introduction, covering where to get the data, provide a breakdown of the numbers, and links to other resources.\nLink to presentation"
-  },
-  {
-    "objectID": "meetings/2018-11-20-NovMeetup.html",
-    "href": "meetings/2018-11-20-NovMeetup.html",
-    "title": "Learnings from EARL Conference - Derrick Kearney and Roy Budhaditya",
-    "section": "",
-    "text": "Derrick and Roy shared their learnings from the recent EARL conference that they attended."
-  },
-  {
-    "objectID": "meetings/2019-01-15-JanMeetup.html",
-    "href": "meetings/2019-01-15-JanMeetup.html",
-    "title": "Discussion of 2019 Plans",
-    "section": "",
-    "text": "We discussed plans for 2019. We had sent a survey to the folks in IndyUseR meetup group (~400 members). We got only 13 responses. We reviewed the responses and factored those into our discussions. The summary of the 13 responses are in this location.\nWe discussed the following:"
-  },
-  {
-    "objectID": "meetings/2019-01-15-JanMeetup.html#topics-of-interest",
-    "href": "meetings/2019-01-15-JanMeetup.html#topics-of-interest",
-    "title": "Discussion of 2019 Plans",
-    "section": "Topics of Interest:",
-    "text": "Topics of Interest:\nSome of the topics of interest listed in this year’s survey and talked about last year are listed in this location. Others can add to the list. It would also be great if anybody who is familiar with one of these topics volunteers to present to the group."
-  },
-  {
-    "objectID": "meetings/2019-01-15-JanMeetup.html#survey",
-    "href": "meetings/2019-01-15-JanMeetup.html#survey",
-    "title": "Discussion of 2019 Plans",
-    "section": "Survey",
-    "text": "Survey\nWe will keep the survey open. We would appreciate it if you can fill out the survey."
-  },
-  {
-    "objectID": "meetings/2019-02-19-FebMeetup.html",
-    "href": "meetings/2019-02-19-FebMeetup.html",
-    "title": "Recap of rstudio::conf 2019 - Derrick Kearney and Will Landau",
-    "section": "",
-    "text": "Derrick and Will gave an overview of rstudio::conf 2019 and learning from it. Material covered during the meetup along with link to slides is in this location."
+    "text": "Links:\n\nlink to video\n\nlink to slides"
   },
   {
     "objectID": "meetings/2019-03-19-FebMeetup.html",
@@ -210,46 +105,39 @@
     "text": "Location of slides."
   },
   {
-    "objectID": "meetings/2019-04-16-AprMeetup.html",
-    "href": "meetings/2019-04-16-AprMeetup.html",
-    "title": "Creating (Web) Maps with R - Stephen Roecker",
+    "objectID": "meetings/2018-08-21-AugMeetup.html",
+    "href": "meetings/2018-08-21-AugMeetup.html",
+    "title": "Story Mapping with igraph - Bill McLellan",
     "section": "",
-    "text": "Most data has a spatial dimension to it. Knowing ‘where’ the data is coming from is often as crucial as knowing the ‘what’, ‘when’ and ‘who’ dimensions of a given dataset. Therefore it should be no surprise that R has a rich suite of packages for constructing maps and analyzing spatial data. R’s capability has grown so much over the years that it’s functionality rivals many dedicated geographic information systems (GIS). During this Meetup the basics for managing and mapping spatial data with be introduced, using the following packages: sf, ggplot2, tmap, mapview and leaflet.\nLocation of slides."
+    "text": "This talk will illustrate how to script a particular R solution for graph analysis to forecast scrum and kanban project cycle time given story links, points and team velocities. This will be followed by brainstorm with the group on how to start generalizing the solution for a project analysis package"
   },
   {
-    "objectID": "meetings/2019-05-21-MayMeetup.html",
-    "href": "meetings/2019-05-21-MayMeetup.html",
-    "title": "Explore Simmer Package for Discrete Event Simulation in R",
+    "objectID": "meetings/2018-10-16-OctMeetup.html",
+    "href": "meetings/2018-10-16-OctMeetup.html",
+    "title": "An introduction to the US Federal Budget with R by Stephen",
     "section": "",
-    "text": "Discrete event simulation is a powerful approach to model real life processes that consist of a sequence of discrete events. An example of such system is queue in a coffee shop. We will explore the package simmer and work through some examples from the vignettes to learn how simmer can be used for doing discrete event simulation in R."
+    "text": "The budget of the United States Federal Government is often a contentious issue. This presentation will provide a ‘rough’ introduction, covering where to get the data, provide a breakdown of the numbers, and links to other resources.\nLink to presentation"
   },
   {
-    "objectID": "meetings/2019-10-15-OctMeetup.html",
-    "href": "meetings/2019-10-15-OctMeetup.html",
-    "title": "Reproducible workflows at scale with Drake - Will Landau",
+    "objectID": "meetings/2021-05-18-MayMeetup.html",
+    "href": "meetings/2021-05-18-MayMeetup.html",
+    "title": "Apache Arrow: Enabling Data Engineering in R - Ian Cook",
     "section": "",
-    "text": "Ambitious workflows in R, such as machine learning analyses, can be difficult to manage. A single round of computation can take several hours to complete, and routine updates to the code and data tend to invalidate hard-earned results. You can enhance the maintainability, hygiene, speed, scale, and reproducibility of such projects with the drake R package. drake resolves the dependency structure of your analysis pipeline, skips tasks that are already up to date, executes the rest with optional distributed computing, and organizes the output so you rarely have to think about data files. This talk demonstrates how to create and maintain a realistic machine learning project using drake-powered automation.\nLinks:\n\nSlides presented at the meetup (link)\nWorkshop materials to learn Drake (link)"
+    "text": "The job of a data engineer is to build, manage, and optimize systems for transforming data into forms that facilitate analysis. Despite the broad adoption of R as a language for data science, it has taken a back seat to Python and other languages in the area of data engineering. But this is beginning to change. Data engineering tasks that were previously infeasible in R are becoming straightforward thanks to recent developments in the Apache Arrow project and the R package arrow. Arrow provides tools for working with tabular data that emphasize performance, efficiency, standardization, and interoperability with other languages and systems in the broader data ecosystem. Using the R package arrow, it is now possible to implement many data engineering and ETL tasks entirely in R, avoiding the overhead of switching to another language Python or using a framework like Spark."
   },
   {
-    "objectID": "meetings/2019-11-19-NovMeetup.html",
-    "href": "meetings/2019-11-19-NovMeetup.html",
-    "title": "RNA Sequencing: Analysis of gene expression data using R - Nadia Atallah Lanman",
-    "section": "",
-    "text": "During the last decade, Next Generation sequencing technologies have revolutionized basic, applied, and clinical research. This IndyUseR tutorial is a brief overview, covering the basics of RNA-seq experimental planning and data analysis. The bulk of the analysis will focus on analyses that occur once a gene expression count matrix is obtained. We will cover quality control, differential gene expression analysis, pathway analysis, enrichment analysis, and data visualization.\nLinks:\n1. Presentation html file (link)\n2. Files used to generate html presentation file (link)"
+    "objectID": "meetings/2021-05-18-MayMeetup.html#links",
+    "href": "meetings/2021-05-18-MayMeetup.html#links",
+    "title": "Apache Arrow: Enabling Data Engineering in R - Ian Cook",
+    "section": "Links",
+    "text": "Links\nMeetup Video"
   },
   {
-    "objectID": "meetings/2020-02-18-FebMeetup.html",
-    "href": "meetings/2020-02-18-FebMeetup.html",
-    "title": "rstudio::conf(2020) Recap - Derrick Kearney",
+    "objectID": "meetings/2020-07-21-JulyMeetup.html",
+    "href": "meetings/2020-07-21-JulyMeetup.html",
+    "title": "RStudio Connect - Gagandeep Singh and Ryan Johnson",
     "section": "",
-    "text": "Links:\n\nlink to video\n\nlink to slides"
-  },
-  {
-    "objectID": "meetings/2020-03-17-MarMeetup.html",
-    "href": "meetings/2020-03-17-MarMeetup.html",
-    "title": "Renv package - Derrick Kearney",
-    "section": "",
-    "text": "Join us for two presentation. 1. Vijay Lulla will be leading us in an exploration of the unexpected parts of the R language in a round of R Trivia! 2. Derrick Kearney will share usage scenarios for renv, an R package that helps create portable and reproducible development environments. The package author, Kevin Ushey, explains the basics in his video. We’ll build on top of it with practical usage examples.\nLinks:\n\nlink to video\n\nlink to examples discussed"
+    "text": "Meetup Video"
   },
   {
     "objectID": "meetings/2020-04-21-AprMeetup.html",
@@ -259,25 +147,25 @@
     "text": "Bill led the discussion of Plumber package (video)"
   },
   {
-    "objectID": "meetings/2020-05-19-MayMeetup.html",
-    "href": "meetings/2020-05-19-MayMeetup.html",
-    "title": "Golem: Framework for Building Production Grade Shiny Apps - Lance Upton",
+    "objectID": "meetings/2020-03-17-MarMeetup.html",
+    "href": "meetings/2020-03-17-MarMeetup.html",
+    "title": "Renv package - Derrick Kearney",
     "section": "",
-    "text": "Lance introduced us to the R package named golem, which can be used to create production-grade Shiny applications. If you are into R based web application development and Shiny, this framework may be your guide to keeping your code organized with it’s embedded best practices.\nLance graciously agreed to do this meetup session for us at extremely short notice. So there were a few hiccups during the live demo. But he agreed to do another recording after the meetup to showcase Golem again which went more smoothly. We have listed both the videos below.\n\n\nMeetup Video Post Meetup Video"
+    "text": "Join us for two presentation. 1. Vijay Lulla will be leading us in an exploration of the unexpected parts of the R language in a round of R Trivia! 2. Derrick Kearney will share usage scenarios for renv, an R package that helps create portable and reproducible development environments. The package author, Kevin Ushey, explains the basics in his video. We’ll build on top of it with practical usage examples.\nLinks:\n\nlink to video\n\nlink to examples discussed"
   },
   {
-    "objectID": "meetings/2020-06-16-JunMeetup.html",
-    "href": "meetings/2020-06-16-JunMeetup.html",
-    "title": "Time Series Forecasting with Fable Package - Sri Seshadri",
+    "objectID": "meetings/2019-02-19-FebMeetup.html",
+    "href": "meetings/2019-02-19-FebMeetup.html",
+    "title": "Recap of rstudio::conf 2019 - Derrick Kearney and Will Landau",
     "section": "",
-    "text": "Meetup Video Slides and Code"
+    "text": "Derrick and Will gave an overview of rstudio::conf 2019 and learning from it. Material covered during the meetup along with link to slides is in this location."
   },
   {
-    "objectID": "meetings/2020-07-21-JulyMeetup.html",
-    "href": "meetings/2020-07-21-JulyMeetup.html",
-    "title": "RStudio Connect - Gagandeep Singh and Ryan Johnson",
+    "objectID": "meetings/2018-02-20-FebMeetup.html",
+    "href": "meetings/2018-02-20-FebMeetup.html",
+    "title": "rstudio::conf2018 and tidyeval Discussion - Will Landau",
     "section": "",
-    "text": "Meetup Video"
+    "text": "Will talked about rstudio::conf2018 and discussed tidyeval concepts that he recently learnt at Hadley Wickham’s rstudio::conf2018 tutorial. (link to Will’s presentation material)"
   },
   {
     "objectID": "meetings/2020-09-15-SepMeetup.html",
@@ -308,6 +196,55 @@
     "text": "Links\nMeetup Video"
   },
   {
+    "objectID": "meetings/2019-10-15-OctMeetup.html",
+    "href": "meetings/2019-10-15-OctMeetup.html",
+    "title": "Reproducible workflows at scale with Drake - Will Landau",
+    "section": "",
+    "text": "Ambitious workflows in R, such as machine learning analyses, can be difficult to manage. A single round of computation can take several hours to complete, and routine updates to the code and data tend to invalidate hard-earned results. You can enhance the maintainability, hygiene, speed, scale, and reproducibility of such projects with the drake R package. drake resolves the dependency structure of your analysis pipeline, skips tasks that are already up to date, executes the rest with optional distributed computing, and organizes the output so you rarely have to think about data files. This talk demonstrates how to create and maintain a realistic machine learning project using drake-powered automation.\nLinks:\n\nSlides presented at the meetup (link)\nWorkshop materials to learn Drake (link)"
+  },
+  {
+    "objectID": "meetings/2022-10-18-OctMeetup.html",
+    "href": "meetings/2022-10-18-OctMeetup.html",
+    "title": "Introduction to targets R package - Will Landau",
+    "section": "",
+    "text": "This month, Will Landau introduces the {targets} R package. The {targets} package is a Make-like pipeline tool for statistics and data science in R. With {targets}, you can maintain a reproducible workflow without repeating yourself. {targets} skips costly runtime for tasks that are already up to date, orchestrates the necessary computation with implicit parallel computing, and abstracts files as R objects. An up-to-date {targets} pipeline is tangible evidence that the output aligns with the code and data, which substantiates trust in the results. This presentation explains the purpose of {targets}, how to get started, and the major features.\nWill Landau is a statistician and software developer in the life sciences industry. He specializes in the computational aspects of Bayesian statistics and reproducible research, and is the creator and maintainer of targets and drake R packages."
+  },
+  {
+    "objectID": "meetings/2022-10-18-OctMeetup.html#links",
+    "href": "meetings/2022-10-18-OctMeetup.html#links",
+    "title": "Introduction to targets R package - Will Landau",
+    "section": "Links",
+    "text": "Links\nMeetup Video\nGithub Repo"
+  },
+  {
+    "objectID": "meetings/2019-04-16-AprMeetup.html",
+    "href": "meetings/2019-04-16-AprMeetup.html",
+    "title": "Creating (Web) Maps with R - Stephen Roecker",
+    "section": "",
+    "text": "Most data has a spatial dimension to it. Knowing ‘where’ the data is coming from is often as crucial as knowing the ‘what’, ‘when’ and ‘who’ dimensions of a given dataset. Therefore it should be no surprise that R has a rich suite of packages for constructing maps and analyzing spatial data. R’s capability has grown so much over the years that it’s functionality rivals many dedicated geographic information systems (GIS). During this Meetup the basics for managing and mapping spatial data with be introduced, using the following packages: sf, ggplot2, tmap, mapview and leaflet.\nLocation of slides."
+  },
+  {
+    "objectID": "meetings/2018-03-20-MarMeetup.html",
+    "href": "meetings/2018-03-20-MarMeetup.html",
+    "title": "Intro to Reticulate Package - Shankar",
+    "section": "",
+    "text": "Shankar covered the basics of reticulate package. The codes covered in the talk are in this location."
+  },
+  {
+    "objectID": "meetings/2018-09-18-SepMeetup.html",
+    "href": "meetings/2018-09-18-SepMeetup.html",
+    "title": "Time Series Group Forecasting with R and Interactive Visualization with ggvis - Roy Budhaditya",
+    "section": "",
+    "text": "We will be discussing time series group forecasting in R as well as ggvis visualization. Forecasting is always a topic of importance with the availability of several models such as ARIMA, seasonal decomposition, exponential smoothing and so on. Each and every method produces different or close to similar output based on the data we use. We will be going through a hands on forecast modelling in R using Tidyverse and MAPA package. In second part, we will be talking about ggvis visualization which is built for rich interactive graphics and powered by Shiny’s infrastructure to publish interactive visualizations."
+  },
+  {
+    "objectID": "meetings/2020-05-19-MayMeetup.html",
+    "href": "meetings/2020-05-19-MayMeetup.html",
+    "title": "Golem: Framework for Building Production Grade Shiny Apps - Lance Upton",
+    "section": "",
+    "text": "Lance introduced us to the R package named golem, which can be used to create production-grade Shiny applications. If you are into R based web application development and Shiny, this framework may be your guide to keeping your code organized with it’s embedded best practices.\nLance graciously agreed to do this meetup session for us at extremely short notice. So there were a few hiccups during the live demo. But he agreed to do another recording after the meetup to showcase Golem again which went more smoothly. We have listed both the videos below.\n\n\nMeetup Video Post Meetup Video"
+  },
+  {
     "objectID": "meetings/2021-03-16-MarMeetup.html",
     "href": "meetings/2021-03-16-MarMeetup.html",
     "title": "Turning Data Frames into Publication Ready Tables - Rich Iannone",
@@ -322,25 +259,81 @@
     "text": "Links\nMeetup Video"
   },
   {
-    "objectID": "meetings/2021-05-18-MayMeetup.html",
-    "href": "meetings/2021-05-18-MayMeetup.html",
-    "title": "Apache Arrow: Enabling Data Engineering in R - Ian Cook",
+    "objectID": "meetings/2018-05-15-MayMeetup.html",
+    "href": "meetings/2018-05-15-MayMeetup.html",
+    "title": "Turning Your Analysis into an API with Plumber - Derrick Kearney",
     "section": "",
-    "text": "The job of a data engineer is to build, manage, and optimize systems for transforming data into forms that facilitate analysis. Despite the broad adoption of R as a language for data science, it has taken a back seat to Python and other languages in the area of data engineering. But this is beginning to change. Data engineering tasks that were previously infeasible in R are becoming straightforward thanks to recent developments in the Apache Arrow project and the R package arrow. Arrow provides tools for working with tabular data that emphasize performance, efficiency, standardization, and interoperability with other languages and systems in the broader data ecosystem. Using the R package arrow, it is now possible to implement many data engineering and ETL tasks entirely in R, avoiding the overhead of switching to another language Python or using a framework like Spark."
+    "text": "Derrick covered the topic of turning Analysis into an API with Plumber. The abstract of the talk and link to presented material are below."
   },
   {
-    "objectID": "meetings/2021-05-18-MayMeetup.html#links",
-    "href": "meetings/2021-05-18-MayMeetup.html#links",
-    "title": "Apache Arrow: Enabling Data Engineering in R - Ian Cook",
-    "section": "Links",
-    "text": "Links\nMeetup Video"
+    "objectID": "meetings/2018-05-15-MayMeetup.html#abstract",
+    "href": "meetings/2018-05-15-MayMeetup.html#abstract",
+    "title": "Turning Your Analysis into an API with Plumber - Derrick Kearney",
+    "section": "Abstract",
+    "text": "Abstract\nYou’ve imported the data, cleaned it up, and built the model. Your next step is to communicate your findings with others. Typically this would mean writing a report or building a web application so other people could visualize how the model works, but sometime your Communicate step is someone else’s Import step. In this talk, we’ll explore how to expose your analysis to others in a programmatic way by using HTTP APIs built with the Plumber library. Our conversation will include a high level overview of how HTTP works, code based examples of building an API, and how to use that API from different programming languages.\nLink to material from talk"
   },
   {
-    "objectID": "index.html#section-7",
-    "href": "index.html#section-7",
-    "title": "IndyUseR Meetup",
-    "section": "2015",
-    "text": "2015\n\nNovember 2015: Typical Excel Tasks in R - Stuart Ward, Demo of a Shiny App that Analyzes Sentiments and Produces Wordcloud of Sentiments - J. D. Freeman\nOctober 2015: Big Data Processing with Apache Spark and R - Hao Lin\nSeptember 2015: reshape and reshape2 packages - Adrian Katschke\nAugust 2015: 3D Interactive Scatter Plots - J. D. Freeman, R Markdown - Richard Layton\nJuly 2015: Report on UseR 2015 - Richard Layton, Presentation on forecasting with forecast package - Ben Staiger"
+    "objectID": "meetings/2018-01-16-JanMeetup.html",
+    "href": "meetings/2018-01-16-JanMeetup.html",
+    "title": "Discussion of 2018 plans",
+    "section": "",
+    "text": "We discussed plans for 2018 as a group. Below are notes from the discussion"
+  },
+  {
+    "objectID": "meetings/2018-01-16-JanMeetup.html#ideas-on-content-to-cover-in-the-meetups",
+    "href": "meetings/2018-01-16-JanMeetup.html#ideas-on-content-to-cover-in-the-meetups",
+    "title": "Discussion of 2018 plans",
+    "section": "Ideas on content to cover in the meetups",
+    "text": "Ideas on content to cover in the meetups\n\ntrivia\nshort package intro and go through vignette with some extensions\ngo through datasets from different industries\npeople can ask questions (ask a few days before) so that they can be addressed during the meetup\nTopics of interest:\n\ngithub\ndocker/rocker\nsetting up RStudio/Shiny in cloud (AWS, google cloud etc.)\nMarkdown/knitr\n\nParticipate in hackathons\nWhat folks want from the group:\n\nSee different things\nintro stuff\n\nLook to change location closer to downtown\nPlan couple of months ahead\nHave some pre-made content to fill periodically\nFeb:\n\nReticulate: 30 min Shankar\nReview of Rstudio conf: 1h Will Landau\n\nMarch:\n\nIntro topic (data basics) - Todd\n\nSomewhere: (Alex)\n\nusing R with SQL, dbi\nStart to finish build your theme for ggplot"
+  },
+  {
+    "objectID": "meetings/2018-04-17-AprilMeetup.html",
+    "href": "meetings/2018-04-17-AprilMeetup.html",
+    "title": "Using R in Power BI - Ryan Wade",
+    "section": "",
+    "text": "Ryan wade covered the topic of using R in Power BI. The abstract of the talk, Ryan’s profile and link to presented material are below."
+  },
+  {
+    "objectID": "meetings/2018-04-17-AprilMeetup.html#abstract",
+    "href": "meetings/2018-04-17-AprilMeetup.html#abstract",
+    "title": "Using R in Power BI - Ryan Wade",
+    "section": "Abstract",
+    "text": "Abstract\nR is a very powerful statistical programming language that has been gaining a lot of traction in recent years. In early 2015 Microsoft acquired Revolution Analytics, a major provider of software and services for R. Microsoft have since incorporated R in Azure ML, SQL Server 2016, and Power BI. There are 3 ways you can leverage R in Power BI. You can use it as a data source, you can leverage it in Power Query, or you can use it to create custom visualizations. In this session I present easy to follow examples of those 3 scenarios. I will also provide resources that will enable you to take what you learned to the next level."
+  },
+  {
+    "objectID": "meetings/2018-04-17-AprilMeetup.html#profile-of-speaker-ryan-wade",
+    "href": "meetings/2018-04-17-AprilMeetup.html#profile-of-speaker-ryan-wade",
+    "title": "Using R in Power BI - Ryan Wade",
+    "section": "Profile of speaker Ryan Wade:",
+    "text": "Profile of speaker Ryan Wade:\nI am a data analytic professional with over 20 years of experience. My education and work experience enables me to understand things from a technical, analytical, and business viewpoint. I have the ability to present complex data in an intuitive way using sound analytical and visualization methods.\nI have an advanced analytical and technical skill-set. My technical background includes the following tools and programming languages: Power BI, T-SQL, Excel, DAX, R, M, Python, VBA, Office 365, SSIS, SSAS Tabular & SSRS. I also have an elementary understanding of Azure ML and Octave.\nI am a data analytics enthusiast and I have spoken at R meetups, Python meetups, SQLSaturdays, and PASS Summit about various topics dealing with data analytic\nLink to material from talk"
+  },
+  {
+    "objectID": "meetings/2020-06-16-JunMeetup.html",
+    "href": "meetings/2020-06-16-JunMeetup.html",
+    "title": "Time Series Forecasting with Fable Package - Sri Seshadri",
+    "section": "",
+    "text": "Meetup Video Slides and Code"
+  },
+  {
+    "objectID": "meetings/2019-05-21-MayMeetup.html",
+    "href": "meetings/2019-05-21-MayMeetup.html",
+    "title": "Explore Simmer Package for Discrete Event Simulation in R",
+    "section": "",
+    "text": "Discrete event simulation is a powerful approach to model real life processes that consist of a sequence of discrete events. An example of such system is queue in a coffee shop. We will explore the package simmer and work through some examples from the vignettes to learn how simmer can be used for doing discrete event simulation in R."
+  },
+  {
+    "objectID": "meetings/2018-07-19-JulyMeetup.html",
+    "href": "meetings/2018-07-19-JulyMeetup.html",
+    "title": "Working with Databases from R - Alex Axthelm",
+    "section": "",
+    "text": "The abstract of the talk and link to presented material are below."
+  },
+  {
+    "objectID": "meetings/2018-07-19-JulyMeetup.html#abstract",
+    "href": "meetings/2018-07-19-JulyMeetup.html#abstract",
+    "title": "Working with Databases from R - Alex Axthelm",
+    "section": "Abstract",
+    "text": "Abstract\nAlex gave a demo of how to use R code to access and process data form SQL server."
   },
   {
     "objectID": "meetings/2022-08-16-AugMeetup.html",
@@ -355,5 +348,26 @@
     "title": "My First Experiences with Quarto - Derrick Kearney",
     "section": "Links",
     "text": "Links\nMeetup Video"
+  },
+  {
+    "objectID": "meetings/2019-01-15-JanMeetup.html",
+    "href": "meetings/2019-01-15-JanMeetup.html",
+    "title": "Discussion of 2019 Plans",
+    "section": "",
+    "text": "We discussed plans for 2019. We had sent a survey to the folks in IndyUseR meetup group (~400 members). We got only 13 responses. We reviewed the responses and factored those into our discussions. The summary of the 13 responses are in this location.\nWe discussed the following:"
+  },
+  {
+    "objectID": "meetings/2019-01-15-JanMeetup.html#topics-of-interest",
+    "href": "meetings/2019-01-15-JanMeetup.html#topics-of-interest",
+    "title": "Discussion of 2019 Plans",
+    "section": "Topics of Interest:",
+    "text": "Topics of Interest:\nSome of the topics of interest listed in this year’s survey and talked about last year are listed in this location. Others can add to the list. It would also be great if anybody who is familiar with one of these topics volunteers to present to the group."
+  },
+  {
+    "objectID": "meetings/2019-01-15-JanMeetup.html#survey",
+    "href": "meetings/2019-01-15-JanMeetup.html#survey",
+    "title": "Discussion of 2019 Plans",
+    "section": "Survey",
+    "text": "Survey\nWe will keep the survey open. We would appreciate it if you can fill out the survey."
   }
 ]

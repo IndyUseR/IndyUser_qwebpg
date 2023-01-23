@@ -1,0 +1,18 @@
+---
+title: "Introduction to targets R package - Will Landau"
+slug: "oct2022"
+date: 2022-10-18
+---
+
+## Abstract
+
+This month, Will Landau introduces the {targets} R package. The {targets} package is a Make-like pipeline tool for statistics and data science in R. With {targets}, you can maintain a reproducible workflow without repeating yourself. {targets} skips costly runtime for tasks that are already up to date, orchestrates the necessary computation with implicit parallel computing, and abstracts files as R objects. An up-to-date {targets} pipeline is tangible evidence that the output aligns with the code and data, which substantiates trust in the results. This presentation explains the purpose of {targets}, how to get started, and the major features.
+
+Will Landau is a statistician and software developer in the life sciences industry. He specializes in the computational aspects of Bayesian statistics and reproducible research, and is the creator and maintainer of targets and drake R packages.
+
+## Links
+[Meetup Video](https://www.youtube.com/watch?v=_yborp4watI)
+
+[Github Repo](https://github.com/wlandau/targets-intro)
+
+
